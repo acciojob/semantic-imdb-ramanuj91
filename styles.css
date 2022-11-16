@@ -58,6 +58,8 @@ p{
 }
 .cast{
     color: #fff;
+    padding-left: 20px;
+    margin-top: 50px;
 }
 div ul li{
     list-style-type:circle;
